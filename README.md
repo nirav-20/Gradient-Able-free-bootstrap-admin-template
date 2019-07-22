@@ -14,7 +14,7 @@ It is modern concept dashboard design with eye catchy colors. Wish you happy to 
 
 ## Free Version Preview & Download
 
-Check out live preview of Datta Able lite version & download it.
+Check out live preview of Gradient Able free lite version & download it.
 
 #### Preview
 
