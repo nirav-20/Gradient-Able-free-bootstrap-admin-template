@@ -1,8 +1,5 @@
 # Gradient-Able-free-bootstrap-admin-template
 
-
-# Datta Able Bootstrap 4 Admin Template 
-
 Gradient Able Admin Template made using Bootstrap 4 framework, It is a free lite version of [Gradient Able Premium Admin Template](https://codedthemes.com/item/gradient-able-admin-template/) that makes you fulfill your entire Dashboard needs.
 
 ![Gradient Able Free Admin Template preview image](https://github.com/codedthemes/Gradient-Able-free-bootstrap-admin-template/blob/master/dist/assets/images/git/git-preview.png)
